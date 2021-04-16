@@ -1,0 +1,2 @@
+# CoreAppTesting
+With Angular
